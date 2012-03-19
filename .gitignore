@@ -1,0 +1,32 @@
+# osx noise
+.DS_Store
+profile
+
+# xcode noise
+build/*
+*.mode1
+*.mode1v3
+*.mode2v3
+*.perspective
+*.perspectivev3
+*.pbxuser
+*.xcworkspace
+xcuserdata
+
+# svn & cvs
+.svn
+CVS
+design/
+lib/impact/
+lib/weltmeister/
+tools/
+weltmeister.html
+index.html
+game.min.js
+lib/plugins/impact-splash-loader.js
+media/
+lib/game/entities/mover.js
+lib/game/entities/player.js
+lib/game/entities/trigger.js
+lib/game/levels/test.js
+lib/game/main.js
