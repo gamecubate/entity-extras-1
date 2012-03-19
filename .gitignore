@@ -30,3 +30,4 @@ lib/game/entities/player.js
 lib/game/entities/trigger.js
 lib/game/levels/test.js
 lib/game/main.js
+lib/plugins/outlinedfont.js
