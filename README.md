@@ -1,10 +1,10 @@
 # Entity Extras for ImpactJS #
 
 # Entities
-* waypoint: This entity calls the triggeredBy method of one or more targets
-  when it and another entity of a specific collision type overlap at the
-  almost-same position.
-* blocker: This entity stops the movement of all all triggering entities
+* EntityPinTrigger: This entity calls the triggeredBy method of one or more
+  targets when it and another entity of a specific collision type overlap at
+  the almost-same position.
+* EntityBlocker: This entity stops the movement of all all triggering entities
   and releases them after a specified duration.
 
 
@@ -18,6 +18,6 @@
 # Info
 * Created by Alexandre Rousseau for [gamecubate](http://www.gamecubate.com)
 * Use at will but at own risk.
-* Sample project at http://www.gamecubate.com/playground/waypoints_and_blockers .
+* Sample project at http://www.gamecubate.com/playground/pin_triggers_and_blockers .
 * You can reach me by email (alexr at gamecubate dot com) or via the Impact
   forums (alexandre).
