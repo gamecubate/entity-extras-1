@@ -8,7 +8,7 @@
 # Installation
 * Just plop those entities you need into your lib/game/entities folder. Be careful to not overwrite
   existing files.
-* Use in WM at will.
+* Use in WM at will. A test level is included with the pack, inside lib/game/level.
 * Read the source code headers to better understand usage and options.
 
 # Info
