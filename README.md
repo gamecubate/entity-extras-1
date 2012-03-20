@@ -1,10 +1,10 @@
 # Entity Extras for ImpactJS #
 
 # Entities
-* EntityPinTrigger: This entity calls the triggeredBy method of one or more
+* PinTrigger: This entity calls the triggeredBy method of one or more
   targets when it and another entity of a specific collision type overlap at
   the almost-same position.
-* EntityBlocker: This entity stops the movement of all all triggering entities
+* Blocker: This entity stops the movement of all all triggering entities
   and releases them after a specified duration.
 
 
