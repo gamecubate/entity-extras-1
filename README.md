@@ -1,6 +1,5 @@
 # Entity Extras for ImpactJS #
 
-## Entities
 * PinTrigger: This entity calls the triggeredBy method of one or more
   targets when it and another entity of a specific collision type overlap at
   the almost-same position.
