@@ -7,6 +7,8 @@
 * Blocker: This entity stops the movement of all all triggering entities
   and releases them after a specified duration.
 
+# Screenshot
+![screenshot](/media/wm_screenshot.png)
 
 # Installation
 * Just plop those entities you need into your lib/game/entities folder. Be
