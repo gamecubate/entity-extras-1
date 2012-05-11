@@ -8,7 +8,7 @@
   and releases them after a specified duration.
 
 # Screenshot
-![screenshot](/media/wm_screenshot.png)
+![screenshot](https://github.com/gamecubate/entity-extras-1/raw/master/media/wm_screenshot.png)
 
 # Installation
 * Just plop those entities you need into your lib/game/entities folder. Be
