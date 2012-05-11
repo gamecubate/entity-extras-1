@@ -19,7 +19,7 @@
 
 # Info
 * Created by Alexandre Rousseau for [gamecubate](http://www.gamecubate.com)
-* Use at will but at own risk.
+* Use at will and at own risk.
 * Sample project at http://www.gamecubate.com/playground/pin_triggers_and_blockers .
 * You can reach me by email (alexr at gamecubate dot com) or via the Impact
   forums (alexandre).
